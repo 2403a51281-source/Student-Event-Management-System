@@ -1,0 +1,63 @@
+    1  mkdir student-event management system
+    2  cd student-event management system
+    3  git init
+    4  git add README.md
+    5  git add README.md
+    6  git add README.md
+    7  ls
+    8  echo "# My Project" > README.md
+    9  ls
+   10  git add README.md
+   11  git commit -m "Add README.md"
+   12  git status
+   13  git add .
+   14  git config --global user.name "Jasmitha"
+   15  git config --global user.email "jasmitha123@gmail.com"
+   16  git config --list
+   17  git commit -m "Initial commit"
+   18  git add README.md
+   19  git commit -m "Initial project setup"
+   20  git reset <filename>
+   21  git add program.py
+   22  git add program.py styles.css server.js
+   23  git add .
+   24  mkdir Student-Event-Management-System
+   25  cd Student-Event-Management-System
+   26  git init
+   27  notepad.exe README.md
+   28  git add README.md
+   29  git commit -m "Initial project setup"
+   30  git status
+   31  git log --oneline
+   32  git branch -M master
+   33  git remote add origin YOUR_GITHUB_URL
+   34  git push -u origin master
+   35  git switch -c feature/event-listing
+   36  notepad.exe events.html
+   37  notepad.exe style.css
+   38  ls
+   39  notepad.exe events.html
+   40  ls
+   41  git add events.html style.css
+   42  git commit -m "Add event listing feature"
+   43  git push -u origin feature/event-listing
+   44  git remote set-url origin https://github.com/YOUR_USERNAME/Student-Event-Management-System.git
+   45  https://github.com/2403a51281-source/Student-Event-Management-System.git
+   46  git remote set-url origin https://github.com/2403a51281-source/Student-Event-Management-System.git
+   47  git push -u origin feature/event-listing
+   48  git push -u origin feature/event-listing
+   49  git switch master
+   50  git pull origin master
+   51  git branch -r
+   52  git switch main
+   53  git push -u origin master
+   54  git merge feature/event-listing
+   55  git push origin master
+   56  git branch -r
+   57  git branch -d feature/event-listing
+   58  git push origin --delete feature/event-listing
+   59  git switch master
+   60  git push origin --delete feature/event-listing
+   61  git branch -a
+   62  history
+   63  history > my_git_commands.txt
